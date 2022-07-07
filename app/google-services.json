@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "227483648499",
+    "project_id": "homie-6680c",
+    "storage_bucket": "homie-6680c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227483648499:android:dba296f8ba44590c741286",
+        "android_client_info": {
+          "package_name": "com.example.homie_"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227483648499-4tgbj9n36drqlpk83hl2gkstpektqf88.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homie_",
+            "certificate_hash": "d5236436ac10068d7c1b881d03c3cefe52b8ed38"
+          }
+        },
+        {
+          "client_id": "227483648499-hph2sv6tlekb6egblh1iqs6a8th6m0oh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIFgn2G5RN-5RoosbgT4f_mY7nUR7PvEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227483648499-hph2sv6tlekb6egblh1iqs6a8th6m0oh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

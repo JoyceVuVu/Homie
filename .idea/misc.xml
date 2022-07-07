@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Homie_/app/src/main/res/drawable-anydpi/menu.xml" value="0.1" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/_5.xml" value="0.11388888888888889" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/_6.xml" value="0.11388888888888889" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/_cart.xml" value="0.14290540540540542" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/_heart.xml" value="0.11388888888888889" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/_home.xml" value="0.11388888888888889" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/_profile.xml" value="0.14290540540540542" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/_search.xml" value="0.1" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/arrow_forward_black.xml" value="0.1" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/back.xml" value="0.1" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/background_now.xml" value="0.11388888888888889" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/bgr_categories.xml" value="0.11388888888888889" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/cart.xml" value="0.1" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/cart_btn_bgr.xml" value="0.1" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/cart_button_bgr.xml" value="0.1" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/cart_details_bgr.xml" value="0.14290540540540542" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/category_bgr.xml" value="0.1" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/chair.xml" value="0.1" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/chat_bgr.xml" value="0.14290540540540542" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/chat_box_bgr.xml" value="0.14290540540540542" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/coat_rack.xml" value="0.14290540540540542" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/edit_texxt_bgr.xml" value="0.1" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/filter.xml" value="0.1" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/group_431.xml" value="0.11388888888888889" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/group_458.xml" value="0.11388888888888889" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/group_463.xml" value="0.11388888888888889" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/group_962.xml" value="0.14256756756756755" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/group_995.xml" value="0.11388888888888889" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/group_996.xml" value="0.11388888888888889" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/heart.xml" value="0.1" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/heart_white.xml" value="0.14256756756756755" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/home_white.xml" value="0.209" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/img_products_background.xml" value="0.1" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/item_5.xml" value="0.21" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/item_selector.xml" value="0.1" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/lamp.xml" value="0.1" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/laucher.xml" value="0.11388888888888889" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/mask_group.xml" value="0.11388888888888889" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/mask_group_1.xml" value="0.14290540540540542" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/minus.xml" value="0.1" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/more.xml" value="0.1" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/path_520.xml" value="0.14290540540540542" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/path_521.xml" value="0.14290540540540542" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/path_522.xml" value="0.14290540540540542" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/path_539.xml" value="0.14290540540540542" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/plus.xml" value="0.1" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/products.xml" value="0.11388888888888889" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/products_details_bgr.xml" value="0.1" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/profile_item_bgr.xml" value="0.14290540540540542" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/rectangle_103.xml" value="0.14290540540540542" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/rectangle_104.xml" value="0.14290540540540542" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/rectangle_145.xml" value="0.14290540540540542" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/rectangle_28.xml" value="0.14290540540540542" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/searchbutton.xml" value="0.1" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/shelf.xml" value="0.14290540540540542" />
+        <entry key="..\:/Homie_/app/src/main/res/drawable/table.xml" value="0.14290540540540542" />
+        <entry key="..\:/Homie_/app/src/main/res/layout/activity_intro.xml" value="0.13243243243243244" />
+        <entry key="..\:/Homie_/app/src/main/res/layout/activity_main.xml" value="0.14" />
+        <entry key="..\:/Homie_/app/src/main/res/layout/activity_product_details.xml" value="0.14" />
+        <entry key="..\:/Homie_/app/src/main/res/layout/cart.xml" value="0.21" />
+        <entry key="..\:/Homie_/app/src/main/res/layout/cart_row_item.xml" value="0.16" />
+        <entry key="..\:/Homie_/app/src/main/res/layout/category_row_item.xml" value="0.25" />
+        <entry key="..\:/Homie_/app/src/main/res/layout/chat_box.xml" value="0.16" />
+        <entry key="..\:/Homie_/app/src/main/res/layout/checkout.xml" value="0.18" />
+        <entry key="..\:/Homie_/app/src/main/res/layout/feedback.xml" value="0.16" />
+        <entry key="..\:/Homie_/app/src/main/res/layout/feedback_row_item.xml" value="0.1" />
+        <entry key="..\:/Homie_/app/src/main/res/layout/feedback_row_tem.xml" value="0.13243243243243244" />
+        <entry key="..\:/Homie_/app/src/main/res/layout/fragment_cart.xml" value="0.13243243243243244" />
+        <entry key="..\:/Homie_/app/src/main/res/layout/fragment_favourite.xml" value="0.12331081081081081" />
+        <entry key="..\:/Homie_/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Homie_/app/src/main/res/layout/fragment_profile.xml" value="0.12331081081081081" />
+        <entry key="..\:/Homie_/app/src/main/res/layout/intro_activity.xml" value="0.13243243243243244" />
+        <entry key="..\:/Homie_/app/src/main/res/layout/login_activity.xml" value="0.12" />
+        <entry key="..\:/Homie_/app/src/main/res/layout/main_activity.xml" value="0.16" />
+        <entry key="..\:/Homie_/app/src/main/res/layout/menu_details.xml" value="0.18" />
+        <entry key="..\:/Homie_/app/src/main/res/layout/order_success.xml" value="0.14" />
+        <entry key="..\:/Homie_/app/src/main/res/layout/product_row_item.xml" value="0.33" />
+        <entry key="..\:/Homie_/app/src/main/res/layout/products_details_activity.xml" value="0.15" />
+        <entry key="..\:/Homie_/app/src/main/res/layout/products_row_item.xml" value="0.25" />
+        <entry key="..\:/Homie_/app/src/main/res/layout/profile.xml" value="0.12" />
+        <entry key="..\:/Homie_/app/src/main/res/layout/reset_password.xml" value="0.13243243243243244" />
+        <entry key="..\:/Homie_/app/src/main/res/layout/signup_activity.xml" value="0.1" />
+        <entry key="..\:/Homie_/app/src/main/res/layout/slider_item.xml" value="0.13243243243243244" />
+        <entry key="..\:/Homie_/app/src/main/res/layout/test.xml" value="0.1" />
+        <entry key="..\:/Homie_/app/src/main/res/menu/bottom_navbar.xml" value="0.13243243243243244" />
+        <entry key="..\:/Homie_/app/src/main/res/menu/item_menu.xml" value="0.1" />
+        <entry key="..\:/Homie_/app/src/main/res/mipmap-anydpi-v26/img_products.xml" value="0.1" />
+        <entry key="..\:/Homie_/app/src/main/res/mipmap-anydpi-v26/img_products_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
